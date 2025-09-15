@@ -43,10 +43,10 @@ Unlike typical console apps, this project delivers smooth **animations, transiti
 ## 📸 Demo  
 Here are some previews of the fancy CMD-based GUI:
 
-![Loading](ReadmeImages/Loading.png)
-![Main Menu](ReadmeImages/MainMenu.png)
-![File Setup](ReadmeImages/FileCreation.png)
-![File Writing](ReadmeImages/FileCreation2.png)
+![Loading](Images/ReadmeImages/Loading.png)
+![Main Menu](Images/ReadmeImages/MainMenu.png)
+![File Setup](Images/ReadmeImages/FileCreation.png)
+![File Writing](Images/ReadmeImages/FileCreation2.png)
 
 ---
 
