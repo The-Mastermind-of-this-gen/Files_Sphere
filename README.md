@@ -41,7 +41,12 @@ Unlike typical console apps, this project delivers smooth **animations, transiti
 ---
 
 ## 📸 Demo  
-👉 Screenshots / GIFs coming soon.  
+Here are some previews of the fancy CMD-based GUI:
+
+![Loading](ReadmeImages/Loading.png)
+![Main Menu](ReadmeImages/MainMenu.png)
+![File Setup](ReadmeImages/FileCreation.png)
+![File Writing](ReadmeImages/FileCreation2.png)
 
 ---
 
