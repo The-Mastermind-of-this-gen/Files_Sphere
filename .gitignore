@@ -1,0 +1,26 @@
+# Visual Studio cache and temporary files
+.vs/
+*.vcxproj.user
+*.pdb
+*.obj
+*.idb
+*.ipch
+*.db
+*.log
+
+# Build output folders
+/bin/
+/build/
+/Debug/
+/Release/
+/x64/
+/*.exe
+
+# OS junk files
+Thumbs.db
+*.DS_Store
+
+# Media (too big for GitHub repo)
+*.mp4
+*.avi
+*.mov
