@@ -1,0 +1,14 @@
+﻿  Task1.cpp
+C:\Users\HP\OneDrive\Documents\Work\Internships\Codveda\Codveda_Simple_File_System\CC212SGL.h(25,19): warning C4091: '__declspec(dllimport)': ignored on left of 'COLORS' when no variable is declared
+  (compiling source file 'Task1.cpp')
+  
+C:\Users\HP\OneDrive\Documents\Work\Internships\Codveda\Codveda_Simple_File_System\Task1.cpp(38,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Task1.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl CC212SGL::CC212SGL(void)" (__imp_??0CC212SGL@@QEAA@XZ) referenced in function "void __cdecl `dynamic initializer for 'gr''(void)" (??__Egr@@YAXXZ)
+Task1.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl CC212SGL::setup(void)" (__imp_?setup@CC212SGL@@QEAAXXZ) referenced in function main
+Task1.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl CC212SGL::beginDraw(void)" (__imp_?beginDraw@CC212SGL@@QEAAXXZ) referenced in function main
+Task1.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl CC212SGL::endDraw(void)" (__imp_?endDraw@CC212SGL@@QEAAXXZ) referenced in function main
+Task1.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl CC212SGL::hideCursor(void)" (__imp_?hideCursor@CC212SGL@@QEAAXXZ) referenced in function main
+Task1.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl CC212SGL::setFullScreenMode(void)" (__imp_?setFullScreenMode@CC212SGL@@QEAAXXZ) referenced in function main
+freeimage.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+CC212SGL.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\HP\OneDrive\Documents\Work\Internships\Codveda\Codveda_Simple_File_System\x64\Debug\Codveda_Simple_File_System.exe : fatal error LNK1120: 6 unresolved externals
